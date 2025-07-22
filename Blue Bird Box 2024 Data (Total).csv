@@ -1,0 +1,12 @@
+# of Boxes,12
+# of Species,3
+# of Eggs,13
+# of Chicks Hatched,10
+# of Fledglings,10
+# of Complete Nests,3
+# of Incomplete Nests,4
+Fledglings per Eggs Laid,0.769
+Fledglings per Eggs Hatched,1
+Average # of Eggs per Complete Nest,4.33
+Average # of Fledglings per Complete Nest,3.33
+Ratio of Boxes Used,0.25

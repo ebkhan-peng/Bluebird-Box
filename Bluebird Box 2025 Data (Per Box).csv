@@ -1,0 +1,17 @@
+Box Name,Box Code,Nest Status,Species,Eggs,Chicks Hatched,Fledglings,Fledglings per Eggs Laid,Fledglings per Eggs Hatched,# of Predators Removed,# of Management Events (Non-predator)
+box 1,A1,empty,,0,,,,,5,1
+box 2,A2,empty,,0,,,,,3,1
+box 3,A3,empty,,0,,,,,1,1
+box 4,A4,empty,,0,,,,,1,4
+box 5,B1,empty,,0,,,,,2,3
+box 6,B2,incomplete,,0,,,,,0,4
+box 7,B3,complete,Tree Swallow,4,0,0,0,-,0,1
+box 8,B4,complete,Western Bluebird,5,4,4,0.8,1,0,1
+box 9,C1,incomplete,,0,,,,,2,3
+box 10,C2,complete,Tree Swallow,4,4,4,1,1,1,1
+box 11,C3,incomplete,,0,,,,,0,2
+box 12,C4,empty,,0,,,,,1,1
+box 13,D1,empty,,0,,,,,0,1
+box 14,D2,empty,,0,,,,,0,1
+box 15,D3,incomplete,,0,,,,,0,1
+box 16,D4,incomplete,,0,,,,,2,1

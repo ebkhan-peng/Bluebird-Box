@@ -1,0 +1,15 @@
+# of Boxes,16
+# of Species,3
+# of Eggs,26
+# of Chicks Hatched,18
+# of Fledglings,18
+# of Complete Nests,6
+# of Incomplete Nests,9
+Fledglings per Eggs Laid,0.69
+Fledglings per Eggs Hatched,1
+Average # of Eggs per Complete Nest,4.33
+Average # of Fledglings per Complete Nest,3
+Ratio of Boxes Used,0.25
+Boxes Used,"B3, B4, C2, C3"
+Species,"Western Bluebird, Violet-Green Swallow, Tree Swallow"
+Invaders in Boxes,"spider, earwig, wasp, bee, ant"
