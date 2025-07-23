@@ -1,0 +1,17 @@
+Box Name,Box Code,Years with Nest Material ,Species,Eggs,Chicks Hatched,Fledglings,Fledglings per Eggs Laid,Fledglings per Eggs Hatched
+box 1,A1,1,,,,,,
+box 2,A2,1,,,,,,
+box 3,A3,0,,,,,,
+box 4,A4,0,,,,,,
+box 5,B1,0,,,,,,
+box 6,B2,2,,,,,,
+box 7,B3,2,"Western Bluebird, Tree Swallow",9,3,3,0.33,1
+box 8,B4,2,"Western Bluebird, Violet-Green Swallow",9,7,7,0.78,1
+box 9,C1,2,,,,,,
+box 10,C2,1,Tree Swallow,4,4,4,1,1
+box 11,C3,2,Tree Swallow,4,4,4,1,1
+box 12,C4,0,,,,,,
+box 13,D1,0,,,,,,
+box 14,D2,0,,,,,,
+box 15,D3,1,,,,,,
+box 16,D4,1,,,,,,
