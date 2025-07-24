@@ -1,0 +1,17 @@
+"","forest_meters1","developed_meters_1","river_distance","box_code","years_with_nest_material","species","eggs","chicks_hatched","fledglings_per_eggs_laid","distance"
+"1",630,90,483,"A1",1,"",0,NA,NA,31
+"2",630,90,497,"A2",1,"",0,NA,NA,27
+"3",630,127,523,"A3",0,"",0,NA,NA,22
+"4",630,127,525,"A4",0,"",0,NA,NA,22
+"5",703,180,381,"B1",0,"",0,NA,NA,31
+"6",703,180,398,"B2",2,"",0,NA,NA,18
+"7",576,285,407,"B3",2,"Western Bluebird, Tree Swallow",9,3,0.33,18
+"8",576,285,421,"B4",2,"Western Bluebird, Violet-Green Swallow",9,7,0.78,26
+"9",324,525,212,"C1",2,"",0,NA,NA,30
+"10",324,525,187,"C2",1,"Tree Swallow",4,4,1,30
+"11",324,525,186,"C3",2,"Tree Swallow",4,4,1,37
+"12",285,450,174,"C4",0,"",0,NA,NA,49
+"13",402,450,416,"D1",0,"",0,NA,NA,16
+"14",402,450,415,"D2",0,"",0,NA,NA,15
+"15",402,450,409,"D3",1,"",0,NA,NA,15
+"16",402,450,409,"D4",1,"",0,NA,NA,15
